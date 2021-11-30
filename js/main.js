@@ -11,3 +11,4 @@
 // 5) git status   - fayllar statusini tekshiramiz, yashil bo'ladi
 // 6) agar css scss fayl qo'shsak qaytadan git add -A qilib, git statusda tekshiramiz
 // 7) git commit -a -m"kontrol nuqta nomi"  - bu bi;an tochka hosil qilib, uni nomlaymiz
+// 8) git log - qanday commitlar bo'lganini ko'rsatadi
