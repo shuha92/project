@@ -1,7 +1,8 @@
 "use strict";
 
 // Git fayl qo'shadi, uni kuzatadi, control tochka qo'yadi
-// Terminalga yoki PowerShell ga yozamiz
+
+// Terminalga yoki PowerShell ga yozamiz:
 // 1) git init - papka va fayllar hosil bo'ladi, secret
 // 2) git config --local user.name "Shuhrat" yoki git config --local user.email "example@gmail.com"
 // Bu bilan configuratsiyaga o'zgartirish kiriytamiz, local o'rniga global qilsa ham bo'ladi
